@@ -1,0 +1,94 @@
+Criando uma nova página!
+
+menu de navegação 
+Lista de itens 
+Rodapé
+
+Html
+
+Como criar uma divisão dentro do header
+Colocar uma imgem como conteúdo principal do título
+Criar um menu de nagevação com linkes entre páginas 
+Criar o conteúdo principal da página 
+E uma lista de itens complexos com item, título, com imagem, com texto de descrição 
+Criar um rodapé - adicioando uma imagem e uma imagem de fundo
+criar um texto do copyright usando o unicode-table
+
+CSS 
+
+Uso de padding e margin
+Uso de cores de texto 
+centralizar o conteúdo usando a maegem automática
+Aprender a posicionar o elemento na página usando o position: absolute e e relative
+Transfoemar o texto deixando tudo em maíusculo 
+Tirar o sublinhado do texto de um link 
+Como tranformar um elemnento em tamanho percentual, margin percentual, conteúdo percentual 
+Criar borda 
+Comportamento do elemento utilizando o hover e com active 
+Rodapé colocando uma imagem de fundo 
+Alterando tamenhos de fontes e textos 
+
+
+
+
+
+Nesta aula 01, vimos:
+
+* Uma introdução ao projeto do treinamento
+* Uma revisão do conteúdo aprendido no treinamento anterior
+* Uma revisão da base de uma página HTML
+* Lista HTML não ordenada
+
+Navegação entre páginas!
+
+Nesta aula 02, aprendemos:
+
+* A criar links para outras páginas, sejam elas do nosso projeto ou páginas externas
+* Um reforço aos estilos inline e block
+* Como transformar o texto para ter todas as letras maiúsculas
+* Como deixar o texto em negrito com CSS
+* Como remover a decoração do texto
+
+Posicionamento dos elemntos!
+
+Nesta aula 03, aprendemos:
+
+* Como remover os estilos que o navegador cria automaticamente
+* Como funciona os posicionamentos static, relative e absolute dos elementos
+* Como posicionar o cabeçalho da nossa página
+
+A tag section!
+
+Nesta aula 04, aprendemos:
+
+* A tag main, para o conteúdo principal da nossa página
+* A criar listas complexas, com títulos, imagens e parágrafos
+* A utilizar o inline-block
+* A praticar e estilizar o conteúdo principal da nossa página
+
+Listando com bosrdas!
+
+Nesta aula 05, aprendemos:
+
+* Através do CSS, aplicar bordas nos elementos.
+* Os diferentes tipos de bordas.
+* A deixar a borda arredondada.
+
+Pseudo-class CSS!
+
+Nesta aula, aprendemos:
+
+* Algumas pseudo-classes CSS
+   - hover, quando o usuário passa o cursor sobre o elemento
+   - active, quando um elemento está sendo ativado pelo usuário
+* A mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo
+* A mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário
+
+Finalizando a página de produtos - Rodapé
+
+Nesta aula, aprendemos:
+
+* A tag footer, para o rodapé da nossa página
+* Que, com CSS, podemos colocar uma imagem de fundo em um elemento
+    - Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
+* A tabela Unicode
