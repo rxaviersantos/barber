@@ -6,11 +6,6 @@
     text-align: center
 }
 
-.caixa {
-    width: 940px;
-    position: relative;
-    margin: 0 auto;
-}
 img {
     border-radius: 10px;
 }
@@ -53,3 +48,5 @@ ul {
 .imagembeneficios {
     width: 50%;
 }
+
+
