@@ -2,7 +2,7 @@
 
 ### 🧵 Sobre o projeto
 
-Aplicação desenvolvida com HTML5/CSS3 abordando os seguintes elementos:
+Aplicação para barbeiros, desenvolvida com HTML5/CSS3 abordando os seguintes elementos:
 
     - Divisão dentro do header;
     - Menu de navegação com links entre páginas;
