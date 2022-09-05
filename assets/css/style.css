@@ -157,24 +157,6 @@ td, th {
     padding: 8px 15px ;
 }
 
-/*Design responsivo contatos
-@media screen and (max-width: 480px){
-    .caixa, main {
-        width: auto;
-    }
-    h1 {
-        text-align: center;
-    }
-    main {
-        text-align: center;
-    }
-    nav {
-        position:static;
-    }
-}
-
-
-
 /*Página home*/
 
 .banner {
@@ -288,17 +270,17 @@ td, th {
 
 /*Design responsivo - Home*/
 
-@media screen and (max-width: 480px){
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
-        width: auto;
+    @media screen and (max-width: 480px){
+        .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+            width: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        nav {
+            position:static;
+        }
+        .lista-beneficios, .imagem-beneficios {
+            width: 100%;
+        }
     }
-    h1 {
-        text-align: center;
-    }
-    nav {
-        position:static;
-    }
-    .lista-beneficios, .imagem-beneficios {
-        width: 100%;
-    }
-}
